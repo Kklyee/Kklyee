@@ -6,4 +6,4 @@
 - 💻 常用技术：JavaScript / TypeScript、Python、Golang、Node.js、React、Next.js
 - 🧠 持续学习：AI SDK、LangChain、上下文管理、任务编排、LLM 应用开发
 - 📚 学习方式：习惯通过英文技术文档、技术博客、GitHub 等渠道持续学习和解决问题
-- 📫 联系方式：Kkalyeeng@gmail.com
+- 📫 联系方式：kkalyeeng@gmail.com
